@@ -15,4 +15,3 @@
 
 **This** _is_ `Sparta`
 
-![Sparta](https://github.com/wearedead0828/AmericanDollar/blob/master/Sparta.jpeg)
